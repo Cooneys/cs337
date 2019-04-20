@@ -1,0 +1,14 @@
+The amount of crossings in the path: 11
+The total number of expanded nodes is: 29
+And the path is:
+[1, 1]
+[1, 0]
+[0, 2]
+[0, 1]
+[2, 0]
+[1, 1]
+[2, 0]
+[0, 1]
+[0, 2]
+[1, 0]
+[1, 1]
